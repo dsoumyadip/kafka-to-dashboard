@@ -21,4 +21,4 @@ $ spark-submit --master local --class KafkaToDashboard.Kafka2Dashboard --conf sp
 
 ## Architecture:
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/diagram.png)
+![alt text](https://raw.githubusercontent.com/sdp1992/KafkaToSparkStreaming/master/diagram.png)
