@@ -1,6 +1,9 @@
 # KafkaToSparkStreaming
 This application demonstrate how to fetch data from Kafka topic, get sentiments of tweets and aggregate count based on sentiment.
 
+## Window time:
+15 seconds
+
 ## Dependencies:
 
 Scala 2.11.x
